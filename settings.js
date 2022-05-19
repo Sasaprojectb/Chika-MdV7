@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285875990859','6285875990859','6285875990859'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285875990859'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285875990859' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Gorge-Md' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Gorge-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Gorge-Md' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtube.com/channel/UCQErVJs3SAiqJ7IG9a0WT6Q'
+global.ig = 'http://instagram.com/alfan_berak?utm_source=qr'
+global.mygc = 'https://chat.whatsapp.com/FKMImzETmxcEanu7jgziTB'
+global.myweb = 'https://wa.me/message/X5WZT5PQEO2RF1'
+global.email = 'afidalif244@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Dibuat Oleh Gorge-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Cpoyright: gorge-Md' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
