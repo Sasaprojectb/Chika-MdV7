@@ -955,7 +955,7 @@ exports.thanksto = () => {
   *THANKS TO*
   *≻* DikaArdnt
   *≻* ZeeoneOfc
-  *≻* FatihArridho
+  *≻* Gorge-Md
   *≻* Yoga
   *≻* Riy
   *≻* Deff
