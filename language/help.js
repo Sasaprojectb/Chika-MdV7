@@ -9,8 +9,7 @@
 exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
-Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Saya ${botname}, Tekan Button Di Bawah Untuk Mengakses Command terimakasih banyak`
 }
 
 //—————「 List 」—————//
@@ -422,7 +421,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ZeeoneOfc
   *≻* FatihArridho
   *≻* Yoga
-  *≻* Riy
+  *≻* Gorge-Md
   *≻* Deff
   *≻* Sanzy
   *≻* Nekel
@@ -432,13 +431,13 @@ return`  _Selamat ${salam} kak ${pushname}_
 
 //—————「 Welcome 」—————//
 exports.welcome = () => {
-	return`Welcome
+	return`Welcome Kak
 `
 }
 
 //—————「 Leave 」—————//
 exports.leave = () => {
-	return`Byeee
+	return`Selamat tinggal jangan Lupakan bot ini yah 
 `
 }
 
